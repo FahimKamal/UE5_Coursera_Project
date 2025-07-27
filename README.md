@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- 🛑 ACTION REQUIRED: Replace this image source with a hero shot of your redesigned level -->
-  <img src="https://via.placeholder.com/1200x675.png?text=PLACEHOLDER:+Your+Redesigned+Level+Hero+Image" alt="Hero Image of the Redesigned Egypt Level" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/8429f6ac-04fd-45e6-938c-ed25530039ea" alt="Hero Image of the Redesigned Egypt Level" width="80%"/>
   <br>
   <em>A representative hero image of the completed "Sanctuary of Whispering Sands" level template.</em>
 </p>
@@ -92,21 +92,22 @@ I am proud to have successfully completed this course and earned my certificate!
 
 <p align="center">
   <!-- 🛑 ACTION REQUIRED: Add screenshots showcasing your work. Examples below. -->
-  <img src="https://via.placeholder.com/1200x675.png?text=PLACEHOLDER:+Screenshot+of+your+Bakery" alt="Bakery Screenshot" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/8e12ec70-13bd-4d15-94c5-b5d754fe2f4c" alt="Bakery Screenshot" width="80%"/>
   <br/>
-  <img src="https://via.placeholder.com/800x450.png?text=PLACEHOLDER:+Shield+Stance" alt="Shield Stance Screenshot" width="45%"/>
-  <img src="https://via.placeholder.com/800x450.png?text=PLACEHOLDER:+Rifle+Stance" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/40278795-ecab-4dc1-a025-401c61d15d68" alt="Shield Stance Screenshot" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/7fe2391e-cc4f-477d-8300-c7a34c95a23c" width="45%"/>
   <br/>
-  <img src="https://via.placeholder.com/800x450.png?text=PLACEHOLDER:+Air+Dash+in+action" alt="Air Dash Screenshot" width="45%"/>
-  <img src="https://via.placeholder.com/800x450.png?text=PLACEHOLDER:+VFX+Example" alt="VFX Screenshot" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/83619f35-f434-46ee-9fd0-d6cdb68bdb69" alt="Air Dash Screenshot" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/694d906c-ad7c-4168-b0c5-5ca65c1fc68e" alt="VFX Screenshot" width="45%"/>
   <br/>
 </p>
+
 
 ---
 
 ## 💻 Technology Stack
 
-*   **Engine:** Unreal Engine 5.3.2+ ⚙️
+*   **Engine:** Unreal Engine 5.5.4+ ⚙️
 *   **Core Packages Utilized:**
     *   **Unreal Engine Third-Person Template:** Used as the base for player character and movement.
     *   **Stylized Egypt:** Primary environment asset pack.
