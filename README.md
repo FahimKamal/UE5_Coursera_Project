@@ -47,7 +47,7 @@ The complete design philosophy, a breakdown of the level redesign, and the detai
 
 <p align="center">
   <!-- 🛑 ACTION REQUIRED: Upload your project PDF to your repository and change this file name -->
-  <a href="./Project_Design_Document.pdf" target="_blank"> 
+  <a href="The Sanctuary of Whispering Sands.pdf" target="_blank"> 
     <strong>View the Full Project Design Document (PDF)</strong>
   </a>
 </p>
